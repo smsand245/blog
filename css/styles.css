@@ -10117,7 +10117,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
-  text-align: right;
+  text-align: left;
   color: #17a2b8;
   background-image: url("../assets/img/Github Header photo.jpg");
   background-repeat: no-repeat;
