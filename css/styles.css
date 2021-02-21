@@ -10117,8 +10117,8 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
-  text-align: center;
-  color: #fff;
+  text-align: left;
+  color: #17a2b8;
   background-image: url("../assets/img/Github Header photo.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10155,7 +10155,7 @@ header.masthead .masthead-heading {
     font-size: 4.5rem;
     font-weight: 700;
     line-height: 4.5rem;
-    margin-bottom: 4rem;
+    margin-bottom: 1rem;
   }
 }
 #portfolio .portfolio-item {
